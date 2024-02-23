@@ -1,0 +1,16 @@
+.navbar{
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.nav__links{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+}
+.nav__links a{
+    font-size: .9rem;
+    text-transform: uppercase;
+    font-weight: 500;
+}
